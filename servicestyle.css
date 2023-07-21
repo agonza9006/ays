@@ -1,0 +1,95 @@
+@charset "UTF-8";
+body h1 {
+    color: #000000;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: underline;
+}
+body {
+    background-size: cover;
+    /* [disabled]background-repeat: repeat-x; */
+    background-image: url(boots.jpg);
+}
+body p {
+    color: #000000;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+strong em a {
+    color: #000000;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+body section p2 {
+    color: #000000;
+    font-style: italic;
+    font-weight: bold;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+body section {
+    color: #000000;
+    font-style: italic;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+.intro_paragraph {
+    color: #000000;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+body p6 {
+    color: #000000;
+    font-weight: normal;
+    font-size: medium;
+    background-color: #DEDEDE;
+}
+footer {
+    color: #000000;
+}
+a footer {
+    color: #000000;
+}
+body p7 {
+    color: #000000;
+    font-style: italic;
+    font-size: medium;
+    background-color: #DEDEDE;
+}
+body div {
+    color: #000000;
+    font-style: italic;
+    font-size: medium;
+    text-shadow: 0px 0px #E2E2E2;
+    background-color: #DEDEDE;
+}
+body p3 {
+    color: #000000;
+    font-style: italic;
+    font-size: medium;
+}
+body section p5 {
+    color: #000000;
+    font-style: italic;
+    font-weight: bold;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+body p4 {
+    color: #000000;
+    font-size: medium;
+    font-weight: normal;
+}
+body section {
+    font-style: italic;
+    text-decoration: underline;
+    font-size: xx-large;
+}

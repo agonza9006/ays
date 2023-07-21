@@ -1,0 +1,82 @@
+@charset "UTF-8";
+body {
+    background-image: url(champagneonice.jpg);
+    /* [disabled]background-repeat: repeat-x; */
+    background-attachment: scroll;
+    background-size: cover;
+}
+footer {
+    color: #000000;
+    border-bottom-width: medium;
+    border-bottom-color: #BBBBBB;
+    font-size: medium;
+    text-align: center;
+}
+body h1 {
+    color: #000000;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: xx-large;
+    text-align: center;
+    text-shadow: 0px 0px #000000;
+    -webkit-box-shadow: inset 0px 0px;
+    box-shadow: inset 0px 0px;
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: bold;
+    font-variant: normal;
+    /* [disabled]background-color: #B5B5B5; */
+}
+.intro_paragraph {
+    color: #000000;
+    /* [disabled]margin-left: 150px; */
+    text-align: center;
+    /* [disabled]margin-right: -100px; */
+    font-style: italic;
+}
+body p {
+    color: #000000;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    color: #000000;
+    text-decoration: underline;
+    /* [disabled]background-color: #D3D3D3; */
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    text-align: justify;
+}
+
+@media handheld{
+body br {
+    background-image: url(champagneonice.jpg);
+}
+body h1 {
+    color: #000000;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
+body p {
+    color: #000000;
+    font-style: italic;
+    text-align: center;
+    font-size: medium;
+}
+strong em a {
+    color: #000000;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: small;
+    text-align: center;
+    text-decoration: underline;
+}
+}

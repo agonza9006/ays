@@ -1,0 +1,46 @@
+@charset "UTF-8";
+body {
+    background-image: url(couple.jpg);
+    background-size: 750px auto;
+}
+body h1 {
+    color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+}
+body p2 {
+    color: #FFFFFF;
+}
+body p1 {
+    color: #FFFFFF;
+}
+body section p1 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+    color: #FFFFFF;
+    margin-left: 349px;
+}
+strong em a {
+    color: #FFFFFF;
+    text-decoration: underline;
+    text-align: center;
+}
+body section {
+    color: #FFFFFF;
+    text-align: center;
+    font-style: italic;
+}
+.intro_paragraph {
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: underline;
+}
+body fieldset {
+    color: #FFFFFF;
+}

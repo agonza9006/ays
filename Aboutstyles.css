@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body {
+    background-image: url(diamondsragirlsbf.jpg);
+    background-size: cover;
+}
+.intro_paragraph {
+    color: #000000;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+}
+strong em a {
+    color: #000000;
+}
+footera {
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bolder;
+}
+footer {
+    color: #000000;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+body h1 {
+    color: #000000;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    font-size: xx-large;
+}
+body p {
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
